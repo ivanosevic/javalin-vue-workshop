@@ -10,12 +10,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'org.jdbi:jdbi3-core:3.39.1'
-    implementation 'org.jdbi:jdbi3-sqlobject:3.39.1'
-    implementation 'com.h2database:h2:2.2.220'
-    implementation 'io.javalin:javalin-bundle:5.6.1'
-    implementation 'org.webjars:bootstrap:5.3.0'
-    implementation 'org.webjars.npm:vue:3.3.4'
+
 }
 
 test {
